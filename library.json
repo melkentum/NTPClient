@@ -19,6 +19,5 @@
     "url": "https://github.com/arduino-libraries/NTPClient.git"
   },
   "version": "3.1.0",
-  "frameworks": "arduino",
-  "platforms": "espressif"
+  "frameworks": "arduino"
 }
